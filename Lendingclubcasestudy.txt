@@ -1,0 +1,3 @@
+github repo link
+
+https://github.com/noelsj007/LendingClubCaseStudy
